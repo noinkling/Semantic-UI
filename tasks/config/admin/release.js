@@ -92,6 +92,7 @@ module.exports = {
     'nag',
     'popup',
     'progress',
+    'range',
     'rail',
     'rating',
     'reset',
